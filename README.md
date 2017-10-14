@@ -8,7 +8,7 @@
 
 > "I don't even understand it. I must be dumb." - Johann Miller
 
-[![TensorGlow Gif](out.gi)](https://github.com/maxwhoppa/tensorglow)
+[![TensorGlow Gif](out.gif)](https://github.com/maxwhoppa/tensorglow)
 
 **TensorGlow** is an open source software library for numerical noncomputation using data flow graphs. The graph nodes are nonexistent, while the graph edges represent the multidimensional glowing data arrays (tensors) that flow between them. This flexible architecture lets you deploy noncomputation to your terminal without writing code, in a glowing fashion. TensorGlow also includes this README.
 
