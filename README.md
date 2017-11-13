@@ -6,7 +6,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
-> "I don't even understand it. I must be dumb." - Johann Miller
+> "I don't even understand it." - Johann Miller
 
 [![TensorGlow Gif](https://raw.githubusercontent.com/maxwhoppa/tensorglow/ee9a0f91fc8b34bbb8699f990c6e74867648362b/out.gif)](https://github.com/maxwhoppa/tensorglow)
 

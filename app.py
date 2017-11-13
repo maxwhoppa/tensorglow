@@ -26,7 +26,6 @@ class Tensor(object):
                 print('\n'.join([' '.join(['{:4}'.format(item) for item in row]) for row in self.brighten_matrix(matrix)]))
                 print('\n' + 'matrix: ' + str(i+1))
                 time.sleep(0.5)
-                os.system('clear')
             i = 0
 
     def brighten_matrix(self, matrix):
